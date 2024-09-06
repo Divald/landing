@@ -1,0 +1,17 @@
+.section-footer {
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 20px;
+}
+.section-grup-icons {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+.div-icons {
+    padding: 6px;
+    cursor: pointer;
+}
